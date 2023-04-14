@@ -1,16 +1,9 @@
-# campus_yellow
+# Campus_yellow
 
 A new Flutter project.
 
-## Getting Started
+Landing Page or Splash Screen for Campus Yellow 
 
-This project is a starting point for a Flutter application.
+Screenshot of the page
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![project](https://user-images.githubusercontent.com/83510381/231949868-69254fed-8f76-4244-a14c-47e19f7dadc0.jpg)
